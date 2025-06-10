@@ -17,8 +17,7 @@ Bot WhatsApp sederhana untuk manajemen pembuatan akun website. Dibuat dengan Nod
 ### Windows
 1. Clone repository
 ```bash
-git clone https://github.com/[username]/verkinombot.git
-cd verkinombot
+git clone https://github.com/verkinom/verkinombot.git
 ```
 
 2. Install dependencies
@@ -42,7 +41,7 @@ pkg install nodejs-lts git chromium -y
 
 3. Clone repository
 ```bash
-git clone https://github.com/[username]/verkinombot.git
+git clone https://github.com/verkinom/verkinombot.git
 cd verkinombot
 ```
 
