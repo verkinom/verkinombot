@@ -30,7 +30,7 @@ npm install
 npm run dev
 ```
 
-### Android (Termux)
+### Android (Termux) wajib root!!
 1. Install Termux dari F-Droid
 2. Buka Termux dan jalankan perintah berikut:
 ```bash
